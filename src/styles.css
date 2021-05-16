@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.leaderboard {
+  color: #ff00ff;
+  font-weight: 700;
+  font-size: 42px;
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+}
