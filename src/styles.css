@@ -2,6 +2,13 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.end {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .leaderboard {
   color: #ff00ff;
   font-weight: 700;
