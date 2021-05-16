@@ -17,7 +17,7 @@ n.onclick = () => {
   const end = document.querySelector(".end");
 
   const p = document.querySelector(".leaderboard");
-  p.innerText = `theres no leaderboard ${n}`;
+  p.innerText = `theres no leaderboard, ${n}`;
   p.classList.add("leaderboard");
 
   end.style.display = "flex";
